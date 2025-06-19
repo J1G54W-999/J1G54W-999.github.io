@@ -19,8 +19,8 @@ I am currently working on Python scripting for automation, SIEM tools like Splun
 - Project 3
 
 # Certifications:
-BTL1 - SBT (Link)
-PCLE - CyberLynk (Link)
+- BTL1 - SBT (Link)
+- PCLE - CyberLynk (Link)
 
 # My Blog Posts:
 - link
