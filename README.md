@@ -13,15 +13,12 @@ I am currently working on Python scripting for automation, SIEM tools like Splun
 - Kali Linux
 
 # Projects:
-- Python Projects
-- [Project 1](Add_Link_Here)
-- [Project 2](Add_Link_Here)
-- [Project 3](Add_Link_Here)
+- [Python Projects](https://github.com/J1G54W-999/My-Python-Projects.git)
 
 # Certifications:
-- [BTL1 - SBT](Add_Link_Here)
-- [PLCE - CyberLynk](Add_Link_Here)
+- [BTL1 - SBT](https://www.credly.com/badges/521e9791-0bd3-47a1-8cbf-63e1fd16aab0/public_url)
+- [PLCE - CyberLynk](https://www.cyberlynk.io/)
 
 # My Blog Posts:
 - [BTL1 Journey](https://www.linkedin.com/pulse/passing-my-blue-team-level-1-shae-haseldine-8hu4c)
-- [Splunk Threat Hunting - APT DNS Data Exfiltration](Add_Link_Here)
+- [Splunk Threat Hunting - APT DNS Data Exfiltration](https://www.linkedin.com/pulse/splunk-threat-hunting-apt-dns-data-exfiltration-shae-haseldine-k8nyc)
