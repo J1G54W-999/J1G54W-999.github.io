@@ -1,24 +1,39 @@
 # Welcome to my portfolio!
 
-# Whoami:
-My name is Shae Haseldine and I am a passionate learner diving deep into the cybersecurity world! I began this journey after completing a 6-month bootcamp and have since been refining my technical skills to become a great Purple-Team asset. I am a critical thinker and like to solve puzzles and the cyber industry lets me do just that. I get to learn about computer systems, security exploits and how things work (what's under the hood). 
+## Whoami:
+My name is Shae Haseldine and I am a passionate learner diving deep into the cybersecurity world! I began this journey after completing a 6-month bootcamp and have since been refining my technical skills to become a great Purple-Team asset. I am a critical thinker, incredibly curious about cybersecurity and love learning how systems and technologies work (what's under the hood). Learning of Zero-day exploits and hearing the stories of events that shaped the world (like WannaCry and Stuxnet) I find fascinating! 
 
-# Skills
-I am currently working on Python scripting for automation, SIEM tools like Splunk for IR and Threat Hunting, as well as Regex and Linux CLI. Each skill has a purpose to help me on my cybersecurity journey.   
-- Splunk
-- Autopsy
+I am currently completing a Technical Learning Internship to gain the hands-on skills I need to succeed in my desired field, and this portfolio keeps track of my journey. Enjoy!
+
+## Skills:
+I am currently working on Python scripting for automation, SIEM tools like Splunk and KQL, as well as Regex, HTTP and CSS. Each skill has a purpose, and I want to be well-versed across many skills so that I am ready for whatever the cybersecurity field throws at me.   
+- Splunk (Enterprise) - Threat Hunting (BOTS)
+- Autopsy - Forensics
+- Wireshark
 - Linux CLI
+- Kali Linux
+- MITRE ATT&CK Framework + ATT&CK Navigator
+- VirusTotal
+- Yara Rules (Yara Toolkit)
+
+## Scripting:
 - Powershell
 - Bash
-- Kali Linux
+- Python
+- Regex
+- HTTP
+- CSS
+- Markdown
 
-# Projects:
+## Projects:
 - [Python Projects](https://github.com/J1G54W-999/My-Python-Projects.git)
+- [HTML Projects](https://github.com/J1G54W-999/My-HTML-Projects/tree/main/VS_Code_Challenges)
 
-# Certifications:
+## Cybersecurity Certifications:
 - [BTL1 - SBT](https://www.credly.com/badges/521e9791-0bd3-47a1-8cbf-63e1fd16aab0/public_url)
-- [PLCE - CyberLynk](https://www.cyberlynk.io/)
+- [PLCE - CyLynk](https://www.cyberlynk.io/)
+- [CySa+ - CompTIA](https://www.comptia.org/en/certifications/cybersecurity-analyst/) *Expected in September 2025*
 
-# My Blog Posts:
+## My Blog Posts:
 - [BTL1 Journey](https://www.linkedin.com/pulse/passing-my-blue-team-level-1-shae-haseldine-8hu4c)
 - [Splunk Threat Hunting - APT DNS Data Exfiltration](https://www.linkedin.com/pulse/splunk-threat-hunting-apt-dns-data-exfiltration-shae-haseldine-k8nyc)
