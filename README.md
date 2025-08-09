@@ -27,7 +27,7 @@ I am currently working on Python scripting for automation, SIEM tools like Splun
 
 ## Projects:
 - [Python Projects](https://github.com/J1G54W-999/My-Python-Projects.git)
-- [HTML Projects](https://github.com/J1G54W-999/My-HTML-Projects/tree/main/VS_Code_Challenges)
+- [HTML Projects](https://github.com/J1G54W-999/My-HTML-Projects)
 
 ## Cybersecurity Certifications:
 - [BTL1 - SBT](https://www.credly.com/badges/521e9791-0bd3-47a1-8cbf-63e1fd16aab0/public_url)
