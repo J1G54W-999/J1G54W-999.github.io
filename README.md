@@ -10,7 +10,7 @@ This portfolio is to keep track of my cybersecurity learning journey. Enjoy!
 ---
 
 ## 🚀 Skills:
-I am currently working on Python scripting for automation, SIEM tools like Splunk and KQL, as well as Regex, HTTP and CSS. Each skill has a purpose, and I want to be well-versed across many skills so that I am ready for whatever the cybersecurity field throws at me.   
+I am currently working on Python scripting for automation, SIEM tools like Splunk and KQL, as well as Regex, HTML and CSS. Each skill has a purpose, and I want to be well-versed across many skills so that I am ready for whatever the cybersecurity field throws at me.   
 - Splunk (Enterprise) - Threat Hunting (BOTS)
 - Autopsy - Forensics
 - Wireshark
