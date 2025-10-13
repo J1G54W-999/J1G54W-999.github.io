@@ -43,7 +43,7 @@ I am currently working on Python scripting for automation, SIEM tools like Splun
 ## 🏆 Cybersecurity_Certifications:
 - [BTL1 - SBT](https://www.credly.com/badges/521e9791-0bd3-47a1-8cbf-63e1fd16aab0/public_url)
 - [PLCE - CyLynk](https://cylynk.com/courses/practical-certified-linux-cli-essential)
-- [CySa+ 003 - CompTIA](https://www.credly.com/badges/9836f75a-9544-44bc-b922-68735d9f3155/public_url)
+- [CySa+ - CompTIA](https://www.credly.com/badges/9836f75a-9544-44bc-b922-68735d9f3155/public_url)
 
 ---
 
