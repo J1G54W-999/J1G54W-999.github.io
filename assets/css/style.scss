@@ -6,5 +6,9 @@
 // Add any custom CSS styleing below here
 
 body {
-    color: #00FF00; // Override text color
+    color: #00FF00;         // Override text colour
+}
+h1, h2 {
+    color: #00FF00;
+    font-weight: bold;      // Override heading colour
 }
