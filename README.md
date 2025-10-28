@@ -23,8 +23,8 @@ I am currently working on Python scripting for automation, SIEM tools like Splun
 ---
 
 ## 👾 Practical_Cyber_Experience:
-[BTLO](https://blueteamlabs.online/public/user/e06141e84332781b750ee2)
-[TryHackMe](https://tryhackme.com/p/J1G54W)
+- [BTLO](https://blueteamlabs.online/public/user/e06141e84332781b750ee2)
+- [TryHackMe](https://tryhackme.com/p/J1G54W)
 
 ---
 
