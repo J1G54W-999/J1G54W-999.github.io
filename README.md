@@ -1,4 +1,4 @@
-# 👾 Welcome!
+# 🕵🏽‍♂️ Hi, thanks for checking out my portfolio!
 
 ## 🙋🏽‍♂️ Whoami:
 My name is Shae and I am a passionate learner diving deep into the cybersecurity world! I began this journey after completing a 6-month bootcamp and have since been refining my technical skills to become a great Purple-Team asset. I am a critical thinker, incredibly curious about cybersecurity and love learning how systems and technologies work (what's under the hood). Learning of Zero-day exploits and hearing the stories of events that shaped the world (like WannaCry and Stuxnet) I find fascinating! 
@@ -19,6 +19,12 @@ I am currently working on Python scripting for automation, SIEM tools like Splun
 - MITRE ATT&CK Framework + ATT&CK Navigator
 - VirusTotal
 - Yara Rules (Yara Toolkit)
+
+---
+
+## 👾 Practical_Cyber_Experience:
+[BTLO](https://blueteamlabs.online/public/user/e06141e84332781b750ee2)
+[TryHackMe](https://tryhackme.com/p/J1G54W)
 
 ---
 
@@ -50,3 +56,6 @@ I am currently working on Python scripting for automation, SIEM tools like Splun
 ## 📖 My_Blog_Posts:
 - [BTL1 Journey](https://www.linkedin.com/pulse/passing-my-blue-team-level-1-shae-haseldine-8hu4c)
 - [Splunk Threat Hunting - APT DNS Data Exfiltration](https://www.linkedin.com/pulse/splunk-threat-hunting-apt-dns-data-exfiltration-shae-haseldine-k8nyc)
+- [CySA+ Experience and tips](https://www.linkedin.com/pulse/how-i-passed-cysa-exam-my-first-try-shae-haseldine--ypaac)
+
+
