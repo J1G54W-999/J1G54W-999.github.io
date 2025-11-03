@@ -1,9 +1,11 @@
 # 🕵🏽‍♂️ Hi, thanks for checking out my portfolio!
 
+---
+
 ## 🙋🏽‍♂️ whoami:
 My name is Shae and I am a passionate learner diving deep into the cybersecurity world! I began this journey after completing a 6-month bootcamp and have since been refining my technical skills to become a great Purple-Team asset. I am a critical thinker, incredibly curious about cybersecurity and love learning how systems and technologies work (what's under the hood). Learning of Zero-day exploits and hearing the stories of events that shaped the world (like WannaCry and Stuxnet) I find fascinating! 
 
-I am currently completing a Technical Learning Internship with [CyLynk](https://cylynk.com) where I am constantly gaining the hands-on skills I need to succeed in my desired field. Most of my skills so far have all been acquired over the span of around 6 months (after the bootcamp) and that is because of the direction given to me by my mentors, so I am happy to be learning at such a rapid pace. They have helped streamline my learning process so I don't keep going down endless rabbit holes that are not relevant. So I am very grateful for the mentors I have and it has been the catalyst for everything that is to come! 
+I am currently completing a Technical Learning Internship with [CyLynk](https://cylynk.com) where I am constantly gaining the hands-on skills I need to succeed in my desired field. I have been acquiring new cyber skills for the last 2 years (which initally began as a 6 months bootcamp) and I have been hooked ever since. My learning pace and direction has been significantly steamlined through the help of my mentors who have helped guide and simplify the process so I don't keep going down endless rabbit holes that are not relevant. I am very grateful for the mentors I have and it has been the catalyst for everything that is to come! 
 
 This portfolio is to keep track of my cybersecurity learning journey. Enjoy!
 
