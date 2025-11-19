@@ -55,6 +55,11 @@ I am currently working on Python scripting for automation, SIEM tools like Splun
 
 ---
 
+## 🫶🏽 volunteer_experience_highlights:
+- [Hck4G CTF 2025](https://hck4g.org/)
+
+---
+
 ## 📖 my_blog_posts:
 - [BTL1 Journey](https://www.linkedin.com/pulse/passing-my-blue-team-level-1-shae-haseldine-8hu4c)
 - [Splunk Threat Hunting - APT DNS Data Exfiltration](https://www.linkedin.com/pulse/splunk-threat-hunting-apt-dns-data-exfiltration-shae-haseldine-k8nyc)
