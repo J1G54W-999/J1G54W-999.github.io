@@ -1,0 +1,81 @@
+body {
+    font-family: 'Lucida Console', Monaco, monospace;
+    color: #00ff00;
+    background: #1a1a1a;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 50px 0;
+}
+
+/* Header Styling */
+header {
+    width: 800px;
+    margin: 0 auto;
+    position: relative;
+    padding: 20px 0;
+    border-bottom: 1px solid #b5e853;
+}
+
+header h1 {
+    font-size: 30px;
+    line-height: 1.2;
+    margin: 0 0 10px 0;
+}
+
+header p {
+    color: #00ff00;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+/* Main Content */
+section {
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #00ff00;
+    font-weight: bold;
+}
+
+/* Links */
+a {
+    color: #8000ff;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: #8000ff;
+    text-decoration: underline;
+}
+
+/* Lists */
+ul, ol {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+ul li, ol li {
+    padding: 5px 0;
+}
+
+ul li:before {
+    content: "➤ ";
+    color: #00ff00;
+    margin-right: 10px;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 920px) {
+    header, section {
+        width: 90%;
+        margin: 0 auto;
+        padding: 20px 10px;
+    }
+}
