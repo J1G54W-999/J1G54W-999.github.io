@@ -1,5 +1,5 @@
 body {
-    font-family: 'Lucida Console', Monaco, monospace;
+    font-family: 'courier', Monaco, monospace;
     color: #00ff00;
     background: #000000;
     font-size: 16px;
@@ -66,14 +66,14 @@ h1, h2, h3 {
 
 /* Links */
 a {
-    color: #8000ff;
+    color: lightgray;
     text-decoration: none;
     transition: color 0.2s ease, transform 0.2s ease;
     display: inline-block;
 }
 
 a:hover {
-    color: #AD5CFF;
+    color: lightgray;
     text-decoration: underline;
     transform: scale(1.1);
 }
@@ -94,6 +94,73 @@ ul li:before {
     color: #00ff00;
     margin-right: 10px;
 }
+
+
+/* Section for styling tabs */
+
+/* Tab styling */
+.tablinks {
+    flex-grow: 1;
+    width: 100%;
+    border: 1px solid #00ff00;
+    color: #00ff00;
+    background-color: rgb(53, 52, 52);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 86px;
+    font-size: 36px;
+    margin-bottom: 20px;
+    transition: 0.3s;
+}
+
+/* Tab Button positioning */
+.tab {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+/* background colour of tab buttons on hover */
+.tablinks:hover {
+  background-color: rgb(0, 161, 0);
+}
+
+/* active/current tablink class */
+.tablinks.active {
+  background-color: #111;
+  display: flex;
+}
+
+/* Tab content style */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border-top: none;
+}
+
+/* full page container*/
+.portfolio-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #111;
+    border: 2px solid rgb(53, 52, 52);
+    box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);
+    border-radius: 10px;
+}
+
+/* Containers within the tabs*/
+.split-container {
+    display: flex;
+    width: 100%;
+}
+
+.split-left, .split-right {
+    width: 50%;
+    padding: 30px;
+}
+
 
 /* Responsive Design */
 @media screen and (max-width: 920px) {
