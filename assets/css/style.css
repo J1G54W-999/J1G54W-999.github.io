@@ -29,6 +29,7 @@ header {
     border-radius: 50%;
     border-style: inset;
     border-color: #00ff00;
+    box-shadow: 10px 10px 15px rgb(53, 52, 52);
     margin-bottom: 0;
     width: 250px;
     height: auto;
@@ -145,7 +146,7 @@ ul li:before {
     max-width: 1200px;
     margin: 0 auto;
     background-color: #111;
-    border: 2px solid rgb(53, 52, 52);
+    border: 3px solid rgb(53, 52, 52);
     box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);
     border-radius: 10px;
 }
